@@ -1,0 +1,303 @@
+
+@media only screen and (min-width : 900px) and (max-width : 1290px) and (orientation : portrait) {
+
+}
+@media only screen and (min-width : 2560px) and (orientation : landscape) {
+}
+
+@media only screen and (min-width : 900px) and (max-width : 1920px) and (orientation : landscape) {
+
+}
+@media only screen and (min-width : 768px) and (max-width : 1024px) and (orientation : landscape) {
+
+}
+@media screen and (max-width: 1055px) {
+
+}
+@media only screen and (max-width:1024px) {
+.desings {
+    font-size: 165px;
+}
+.we-design-heading {
+    font-size: 110px;
+    letter-spacing: 25px;
+    padding-left: 75px;
+}
+.rec-icon2 {
+    width: 50px;
+}
+.recent-heading{
+	font-size:90px;
+}
+.blur-cir {
+    width:20%;
+}
+.recent-desc p:nth-child(1){
+	font-size:32px;
+}
+.recent-desc p:nth-child(2){
+	font-size:15px;
+}
+#portfoliolist .portfolio{
+	display:block;
+}
+
+}
+
+@media screen and (max-width:1000px) {
+}
+
+@media screen and (max-width: 980px) {
+.desings {
+    font-size: 135px;
+	letter-spacing:35px;
+}
+.we-just{
+	font-size:20px;
+}
+.we-left {
+    margin-top: -15px;
+    position: relative;
+}
+.we-rig {
+    position: relative;
+    top: 65px;
+    min-height:200px;
+}
+.rec-icon3 {
+    position: absolute;
+    top: -57px;
+    left: 134px;
+    width: 80px;
+}
+.cat-inner p:nth-child(3) {
+    font-size: 13px;
+}
+.recent-heading {
+    font-size: 90px;
+    letter-spacing: 7px;
+}
+.blur-cir {
+    width: 20%;
+    top: 0;
+}
+.recent-desc {
+    padding: 0px 20px;
+}
+.recent-desc p:nth-child(2) {
+    font-size: 13px;
+    line-height: 1.5em;
+}
+.recent-desc p:nth-child(1){
+	margin-top:10px;
+	letter-spacing: 3px;
+	 font-size: 27px;
+}
+.frmm {
+    margin: 50px auto;
+    width: 85%;
+}
+.awesomelabel-params-css-input-group label {
+    font-size: 14px;
+    left: 0 !important;
+}
+
+.opt::after {
+    top: 17px;
+    font-size: 13px;
+    opacity: 0.3;
+}
+.portfolio .label-text{
+	font-size:18px;
+}
+}
+@media screen and (max-width: 860px) {
+
+}
+@media screen and (max-width: 812px) {
+}
+
+@media only screen and (max-width:768px) {
+
+}
+@media only screen and (max-width:767px) {
+.header {
+    padding: 20px 0px;
+}
+.banner-text {
+    margin-top: 20px;
+}
+.desings {
+    font-size: 76px;
+    letter-spacing: 0px;
+    text-align: center;
+}
+#motto_word::after {
+    bottom: 0;
+    font-size: 9px;
+    letter-spacing: 2px;
+    line-height: 13px;
+}
+.we-design-heading {
+    font-size: 72px;
+    letter-spacing: 1px;
+    padding-left: 0;
+    margin-left:0px;
+}
+.banner-img img {
+    position: relative;
+    left: 0px;
+    width: 100%;
+    z-index: -1;
+}
+.we-Design {
+    position: relative;
+    margin-top: 20px;
+}
+.rec-icon {
+    position: absolute;
+    left: -15px;
+    top: -30px;
+    width: 20%;
+}
+.we-Design{
+    text-align:center;
+}
+.we-just {
+    font-size: 15px;
+    margin-left:0px;
+}
+
+.we-desc {
+    margin-left:0px;
+}
+
+.rec-icon2 {
+    width: 50px;
+    bottom: 115px;
+}
+
+.get-icon3 {
+    right:0px;
+}
+
+.get-icon3-inner{
+    right: -45px;
+    bottom: 18px;
+}
+
+
+.rec-icon5{
+    position: absolute;
+    top: 55px;
+    right: 0px;
+}
+
+.cat-inner{
+	margin:15px 0px;
+}
+.design-cat {
+    margin: 100px 0 0;
+}
+.recent-heading {
+    font-size: 50px;
+    letter-spacing: 0;
+}
+.recent-work-inner{
+	text-align:center;
+}
+.recent-work-inner .col-sm-6{
+	padding:0;
+}
+.recent-desc{
+	margin-bottom:30px;
+}
+.blur-cir {
+    width: 43%;
+    top: -52px;
+    left: -94px;
+}
+.get-in{
+	padding:10px;
+}	
+.get-in-heading{
+	font-size:40px;
+	letter-spacing:0;	
+}
+.opt::after{
+	display:none;
+}
+.frmm{
+	width:100%;
+}
+.footer{
+	text-align:center;
+	padding-bottom:0;
+}
+.f-img img {
+    position: relative;
+    bottom: 0;
+    right: 0;
+}
+.f-img {
+    background: #eef1f9;
+    text-align: center;
+}
+.portfolio-heading {
+    text-align: center;
+    padding: 50px 0px 0 0px;
+}
+#portfoliolist .portfolio {
+    width: 100%;
+    margin:10px 0;
+}
+.port-heading {
+    font-size: 84px;	
+    letter-spacing: 0px;
+}
+.ball-dr-text {
+    margin: 0px 0px 50px;
+    padding: 60px 0px
+}
+.ball-dr-text p:nth-child(1){
+	font-size:29px;
+}
+
+.comp-img{
+    width: 100%;
+    min-height:200px;
+}
+
+#comp-img-inner{
+    left:0px;
+    width:100%;
+}
+
+
+}
+@media only screen and (max-width:680px) {
+
+}
+
+@media only screen and (max-width:640px) {
+
+
+}
+
+@media only screen and (max-width:480px) {
+
+}
+
+@media only screen and (max-width:360px) {
+
+}
+
+@media only screen and (max-width:320px) {
+}
+
+@media only screen and (max-width : 640px) and (orientation : landscape) {
+
+}
+@media only screen and (max-width : 320px) and (orientation : portrait) {
+
+}
